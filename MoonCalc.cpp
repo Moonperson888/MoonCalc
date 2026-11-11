@@ -121,7 +121,7 @@ int main() {
     if (relaunchInWindowsTerminal()) return 0;
 #endif
 
-    std::cout << "Calculator: + - * / ^ and parentheses.\n"
+    std::cout << "MoonCalc: + - * / ^ and parentheses.\n"
               << "Type 'quit' to exit.\n";
 
     std::string line;
